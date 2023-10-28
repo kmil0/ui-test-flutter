@@ -1,6 +1,6 @@
 # app_sso
 
-A new Flutter project.
+A new Flutter project using patrol and Maestro
 
 ## Getting Started
 
